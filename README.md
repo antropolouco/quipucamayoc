@@ -4,7 +4,7 @@ A high-level quipu visualization library for Python
 
 The `quipucamayoc` data visualization library reimagines the modern data science toolkit as one that includes indigenous modes of data communication. This library is based on Incan numeric quipus and works with Python in a Jupyter Notebook environment. I hope `quipucamayoc` inspires data scientists to approach their discipline as the weaving together of historical modes of representation with historical problems
 
-:sparkles: For more information on this library and quipus, visit the [`quipucamayoc` wiki page](https://github.com/potatodax/quipucamayoc/wiki/Quipucamayoc). :sparkles:
+:sparkles: For more information on this library and quipus, visit the [`quipucamayoc` wiki page](https://github.com/potatodax/quipucamayoc/wiki/Quipucamayoc) in this repo. :sparkles:
 
 # Project Structure
 
